@@ -79,9 +79,9 @@ Each project includes objectives, authorization boundaries, prerequisites, lab s
 
 ## Completion status
 
-- [ ] Beginner: 0/15
-- [ ] Intermediate: 0/20
-- [ ] Advanced: 0/15
-- [ ] Overall: 0/50
+- [x] Beginner: 15/15
+- [x] Intermediate: 20/20
+- [x] Advanced: 15/15
+- [x] Overall: 50/50
 
 Illustrations are synthetic training visuals, not screenshots from a real assessment.
